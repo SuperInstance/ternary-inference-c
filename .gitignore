@@ -1,2 +1,4 @@
 *.o
 test_inference
+target/
+Cargo.lock
